@@ -1,0 +1,966 @@
+PERMIT_NUMBER,NAICS_CODE,NAICS_DESC,SIC_CODE,SIC_DESC
+ND0000005,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0000094,311313,Beet Sugar Manufacturing,2063,Beet Sugar
+ND0000141,112511,Finfish Farming and Fish Hatcheries,0921,Fish Hatcheries And Preserves
+ND0000264,221112,Fossil Fuel Electric Power Generation,4911,Electric Services
+ND0000370,,,4911,Electric Services
+ND0020010,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0020079,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0020109,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0020320,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0020371,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0020532,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0020559,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0020567,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0020630,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0020681,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0020729,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0021202,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0021211,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0021342,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0021407,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0021849,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0022039,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0022144,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0022349,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0022462,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0022497,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0022519,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0022616,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0022799,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0022861,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0022870,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0022888,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0022896,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0022918,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0022926,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0023175,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0023213,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0023370,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0023434,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0023647,,,4952,Sewerage Systems
+ND0023868,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0023892,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0024023,,,5172,Petroleum Products
+ND0024201,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+ND0024228,333111,Farm Machinery and Equipment Manufacturing,3523,Farm Machinery And Equipment
+ND0024279,311313,Beet Sugar Manufacturing,2063,Beet Sugar
+ND0024368,311313,Beet Sugar Manufacturing,2063,Beet Sugar
+ND0024601,212111,Bituminous Coal and Lignite Surface Mining,1221,Bituminous Coal And Lignite - Surface
+ND0024759,,,1389,Oil And Gas Field Services
+ND0024791,212111,Bituminous Coal and Lignite Surface Mining,1221,Bituminous Coal And Lignite - Surface
+ND0024945,221112,Fossil Fuel Electric Power Generation,4911,Electric Services
+ND0024996,221112,Fossil Fuel Electric Power Generation,4911,Electric Services
+ND0025011,,,2873,Nitrogenous Fertilizers
+ND0025127,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0025283,212111,Bituminous Coal and Lignite Surface Mining,,
+ND0025321,212111,Bituminous Coal and Lignite Surface Mining,1221,Bituminous Coal And Lignite - Surface
+ND0025704,,,4941,Water Supply
+ND0025810,493190,Other Warehousing and Storage,4613,Refined Petroleum Pipelines
+ND0025828,924120,Administration of Conservation Programs,9512,"Land, Mineral, Wildlife Conservation"
+ND0025836,211130,Natural Gas Extraction,1321,Natural Gas Liquids
+ND0025925,311213,Malt Manufacturing,2083,Malt
+ND0026000,311221,Wet Corn Milling and Starch Manufacturing,2046,Wet Corn Milling
+ND0026077,212319,Other Crushed and Broken Stone Mining and Quarrying,1499,Miscellaneous Nonmetallic Minerals
+ND0026093,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0026140,562212,Solid Waste Landfill,4953,Refuse Systems
+ND0026263,326299,All Other Rubber Product Manufacturing,3069,Fabricated Rubber Products
+ND0026271,325193,Ethyl Alcohol Manufacturing,2869,Industrial Organic Chemicals
+ND0026301,,,4941,Water Supply
+ND0026310,325193,Ethyl Alcohol Manufacturing,2869,Industrial Organic Chemicals
+ND0026344,221310,Water Supply and Irrigation Systems,4941,Water Supply
+ND0026361,221121,Electric Bulk Power Transmission and Control,4911,Electric Services
+ND0026387,221310,Water Supply and Irrigation Systems,4941,Water Supply
+ND0026395,221310,Water Supply and Irrigation Systems,4941,Water Supply
+ND0026662,221112,Fossil Fuel Electric Power Generation,4911,Electric Services
+ND0026760,,,4941,Water Supply
+ND0027031,325199,All Other Basic Organic Chemical Manufacturing,2869,Industrial Organic Chemicals
+ND0027073,518210,"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",7374,Data Processing And Preparation
+ND0027090,325199,All Other Basic Organic Chemical Manufacturing,2869,Industrial Organic Chemicals
+ND0030813,721120,Casino Hotels,4952,Sewerage Systems
+ND0030864,221310,Water Supply and Irrigation Systems,4941,Water Supply
+ND0030970,221310,Water Supply and Irrigation Systems,4952,Sewerage Systems
+ND0030988,324110,Petroleum Refineries,2911,Petroleum Refining
+ND0030996,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0031101,221310,Water Supply and Irrigation Systems,4941,Water Supply
+ND0031119,424710,Petroleum Bulk Stations and Terminals,5171,Petroleum Bulk Stations & Terminals
+ND0031127,,,4612,Crude Petroleum Pipelines
+ND0031135,721120,Casino Hotels,7011,Hotels And Motels
+ND0031143,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0031151,221310,Water Supply and Irrigation Systems,4941,Water Supply
+ND0031160,611430,Professional and Management Development Training,8299,Schools & Educational Services
+ND0031178,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+ND0031186,221310,Water Supply and Irrigation Systems,4941,Water Supply
+ND0031194,221310,Water Supply and Irrigation Systems,4941,Water Supply
+ND0032107,721120,Casino Hotels,7011,Hotels And Motels
+NDDW0001I,221310,Water Supply and Irrigation Systems,4941,Water Supply
+NDDW0002I,221310,Water Supply and Irrigation Systems,4941,Water Supply
+NDDW0003I,221310,Water Supply and Irrigation Systems,4941,Water Supply
+NDDW0004I,,,4941,Water Supply
+NDDW0005I,221310,Water Supply and Irrigation Systems,4941,Water Supply
+NDG120028,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG120141,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG120150,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG120176,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG120184,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG120214,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG120222,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG120257,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG120281,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG120290,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG120397,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG120575,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG120745,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG120753,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG120834,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG120931,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG121458,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG121822,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG121849,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG121903,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG121954,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG122080,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG122101,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG122161,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG122179,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG122209,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG122381,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG122586,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG122608,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG122659,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG122730,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG122756,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG122829,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG123035,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG123043,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG123159,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG123167,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG123256,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG123264,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG123442,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG123761,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG124341,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG124635,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG125356,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG125372,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG126093,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG126239,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG126280,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG126298,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG126409,,,4952,Sewerage Systems
+NDG126433,,,4952,Sewerage Systems
+NDG126441,,,4952,Sewerage Systems
+NDG126450,,,4952,Sewerage Systems
+NDG220036,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG220117,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG220303,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG220338,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG220389,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG220494,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG220630,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG220702,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG220770,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG220788,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG220826,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG221164,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG221288,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG221300,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG221326,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG221351,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG221369,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG221407,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG221482,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG221911,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG221946,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG221971,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG222110,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG222543,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG222721,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG223426,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG223485,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG223663,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG223671,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG223710,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG224562,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG225127,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG225453,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320001,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320002,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320008,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320009,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320044,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320087,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320095,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320109,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320125,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320133,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320168,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320192,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320206,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320249,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320265,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320311,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320338,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320346,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320354,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320362,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320401,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320419,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320427,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320435,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320443,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320451,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320460,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320478,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320508,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320516,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320567,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320656,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320664,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320672,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320699,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320711,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320737,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320761,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320796,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320800,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320818,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320842,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320851,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320869,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320877,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320885,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320893,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320907,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320915,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320923,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320940,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG320958,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321148,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321181,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321199,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321253,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321261,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321270,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321296,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321300,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321318,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321334,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321369,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321377,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321385,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321393,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321415,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321423,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321431,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321440,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321466,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321474,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321491,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321512,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321521,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321539,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321547,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321555,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321563,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321571,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321580,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321598,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321610,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321628,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321636,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321661,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321687,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321695,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321717,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321725,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321733,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321741,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321750,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321768,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321776,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321784,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321792,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321831,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321849,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321857,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321873,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321881,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321890,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321920,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321938,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321946,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321962,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321989,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG321997,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322004,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322012,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322021,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322047,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322055,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322063,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322071,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322098,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322128,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322136,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322152,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322195,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322217,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322233,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322250,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322276,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322306,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322314,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322357,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322365,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322373,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322403,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322411,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322420,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322438,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322446,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322454,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322489,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322527,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322535,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322551,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322560,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322594,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322691,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322705,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322713,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322764,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322772,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322900,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322951,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG322993,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG323001,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG323027,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG323051,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG323060,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG323086,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG323094,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG323205,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG323221,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG323248,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG323281,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG323299,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG323302,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG323311,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG323396,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG323451,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG323477,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG323574,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG323582,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG323639,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG323701,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG324571,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG324597,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG325062,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG325178,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG325186,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG325224,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG325267,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG325313,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG325330,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG325411,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG325461,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG325577,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG325771,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG326719,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG326727,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG326956,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG420923,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG421351,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG421717,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589101,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589102,,,4952,Sewerage Systems
+NDG589103,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589104,,,4952,Sewerage Systems
+NDG589105,,,4952,Sewerage Systems
+NDG589106,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589107,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589108,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589109,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589201,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589202,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589203,,,4952,Sewerage Systems
+NDG589204,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589205,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589206,221320,Sewage Treatment Facilities,8211,Elementary And Secondary Schools
+NDG589301,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589302,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589303,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589304,,,4952,Sewerage Systems
+NDG589305,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589306,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589307,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589308,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589309,,,4952,Sewerage Systems
+NDG589310,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589311,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589312,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589313,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589314,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589315,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589316,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589317,,,4952,Sewerage Systems
+NDG589318,,,4952,Sewerage Systems
+NDG589401,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589402,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589403,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589404,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589405,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589406,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589407,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589408,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589409,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589410,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG589411,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG650001,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG650002,,,4952,Sewerage Systems
+NDG650003,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG650004,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG650005,,,4952,Sewerage Systems
+NDG650006,,,4952,Sewerage Systems
+NDG650007,,,4952,Sewerage Systems
+NDG650008,,,4952,Sewerage Systems
+NDG650009,,,4952,Sewerage Systems
+NDG650010,,,4952,Sewerage Systems
+NDG650011,,,4952,Sewerage Systems
+NDG650013,,,4952,Sewerage Systems
+NDG650014,,,4952,Sewerage Systems
+NDG650024,,,4952,Sewerage Systems
+NDG650025,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG650027,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG650028,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG651004,,,4952,Sewerage Systems
+NDG870078,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDG870079,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDP000010,,,3479,Metal Coating And Allied Services
+NDP000015,,,3531,Construction Machinery
+NDP000017,,,3531,Construction Machinery
+NDP000018,332312,Fabricated Structural Metal Manufacturing,,
+NDP000021,333111,Farm Machinery and Equipment Manufacturing,3523,Farm Machinery And Equipment
+NDP000022,333111,Farm Machinery and Equipment Manufacturing,3523,Farm Machinery And Equipment
+NDP000024,423450,"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers",5047,Medical And Hospital Equipment
+NDP000025,,,3559,Special Industry Machinery
+NDP000031,336212,Truck Trailer Manufacturing,3715,Truck Trailers
+NDP000050,332420,Metal Tank [Heavy Gauge] Manufacturing,3469,Metal Stampings
+NDP000080,,,3728,Aircraft Parts And Equipment
+NDP000099,,,3471,Plating And Polishing
+NDP000199,,,4931,Electric And Other Services Combined
+NDP026689,325199,All Other Basic Organic Chemical Manufacturing,2869,Industrial Organic Chemicals
+NDP026816,311411,"Frozen Fruit, Juice, and Vegetable Manufacturing",2037,Frozen Fruits And Vegetables
+NDP026981,,,5172,Petroleum Products
+NDP026999,325199,All Other Basic Organic Chemical Manufacturing,2869,Industrial Organic Chemicals
+NDPG00015,,,3531,Construction Machinery
+NDPG00017,,,3531,Construction Machinery
+NDPG00018,332312,Fabricated Structural Metal Manufacturing,,
+NDPG00021,333111,Farm Machinery and Equipment Manufacturing,3523,Farm Machinery And Equipment
+NDPG00024,423450,"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers",5047,Medical And Hospital Equipment
+NDPG27104,333111,Farm Machinery and Equipment Manufacturing,3523,Farm Machinery And Equipment
+NDPG27105,332420,Metal Tank [Heavy Gauge] Manufacturing,3441,Fabricated Structural Metal
+NDR040001,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDR040003,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDR040004,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDR040006,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDR040008,,,4911,Electric Services
+NDR040012,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDR040014,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDR040015,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDR040016,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDR040017,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDR040019,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NDR050003,333120,Construction Machinery Manufacturing,3531,Construction Machinery
+NDR050006,336120,Heavy Duty Truck Manufacturing,3713,Truck And Bus Bodies
+NDR050012,221112,Fossil Fuel Electric Power Generation,4911,Electric Services
+NDR050021,,,2099,Food Preparations
+NDR050024,324110,Petroleum Refineries,2911,Petroleum Refining
+NDR050034,333120,Construction Machinery Manufacturing,3531,Construction Machinery
+NDR050036,327120,Clay Building Material and Refractories Manufacturing,3251,Brick And Structural Clay Tile
+NDR050038,,,3089,Plastics Products
+NDR050049,311411,"Frozen Fruit, Juice, and Vegetable Manufacturing",2037,Frozen Fruits And Vegetables
+NDR050051,493120,Refrigerated Warehousing and Storage,4221,Farm Product Warehousing And Storage
+NDR050061,484220,"Specialized Freight [except Used Goods] Trucking, Local",4212,"Local Trucking, Without Storage"
+NDR050064,484220,"Specialized Freight [except Used Goods] Trucking, Local",4212,"Local Trucking, Without Storage"
+NDR050080,441330,Automotive Parts and Accessories Retailers ,5015,"Motor Vehicle Parts, Used"
+NDR050092,333111,Farm Machinery and Equipment Manufacturing,3523,Farm Machinery And Equipment
+NDR050093,423930,Recyclable Material Merchant Wholesalers,5093,Scrap And Waste Materials
+NDR050095,321219,Reconstituted Wood Product Manufacturing,2493,Reconstituted Wood Products
+NDR050104,926120,Regulation and Administration of Transportation Programs,9621,"Regulation, Administration Of Transportation"
+NDR050106,,,9621,"Regulation, Administration Of Transportation"
+NDR050107,,,9621,"Regulation, Administration Of Transportation"
+NDR050108,,,9621,"Regulation, Administration Of Transportation"
+NDR050109,488490,Other Support Activities for Road Transportation,4231,Trucking Terminal Facilities
+NDR050110,,,9621,"Regulation, Administration Of Transportation"
+NDR050111,926120,Regulation and Administration of Transportation Programs,9621,"Regulation, Administration Of Transportation"
+NDR050117,311313,Beet Sugar Manufacturing,2063,Beet Sugar
+NDR050118,311313,Beet Sugar Manufacturing,2063,Beet Sugar
+NDR050119,311313,Beet Sugar Manufacturing,2063,Beet Sugar
+NDR050121,311313,Beet Sugar Manufacturing,2063,Beet Sugar
+NDR050122,311313,Beet Sugar Manufacturing,2063,Beet Sugar
+NDR050123,311313,Beet Sugar Manufacturing,2063,Beet Sugar
+NDR050125,311313,Beet Sugar Manufacturing,2063,Beet Sugar
+NDR050126,311313,Beet Sugar Manufacturing,2063,Beet Sugar
+NDR050127,311313,Beet Sugar Manufacturing,2063,Beet Sugar
+NDR050132,,,4581,"Airports, Flying Fields, & Services"
+NDR050139,,,4581,"Airports, Flying Fields, & Services"
+NDR050142,488119,Other Airport Operations,4581,"Airports, Flying Fields, & Services"
+NDR050146,481219,Other Nonscheduled Air Transportation,4581,"Airports, Flying Fields, & Services"
+NDR050150,488119,Other Airport Operations,4581,"Airports, Flying Fields, & Services"
+NDR050160,488119,Other Airport Operations,4581,"Airports, Flying Fields, & Services"
+NDR050165,488119,Other Airport Operations,4581,"Airports, Flying Fields, & Services"
+NDR050184,488119,Other Airport Operations,4581,"Airports, Flying Fields, & Services"
+NDR050208,423930,Recyclable Material Merchant Wholesalers,5093,Scrap And Waste Materials
+NDR050218,,,3499,Fabricated Metal Products
+NDR050224,,,4212,"Local Trucking, Without Storage"
+NDR050244,,,4151,School Buses
+NDR050249,562212,Solid Waste Landfill,4953,Refuse Systems
+NDR050263,,,3599,Industrial Machinery
+NDR050264,321215,Engineered Wood Member Manufacturing ,2439,Structural Wood Members
+NDR050266,311224,Soybean and Other Oilseed Processing,2075,Soybean Oil Mills
+NDR050280,,,4961,Steam And Air-Conditioning Supply
+NDR050290,562212,Solid Waste Landfill,4953,Refuse Systems
+NDR050294,,,2076,Vegetable Oil Mills
+NDR050295,562211,Hazardous Waste Treatment and Disposal,4953,Refuse Systems
+NDR050296,333111,Farm Machinery and Equipment Manufacturing,3523,Farm Machinery And Equipment
+NDR050300,,,5015,"Motor Vehicle Parts, Used"
+NDR050306,333111,Farm Machinery and Equipment Manufacturing,3523,Farm Machinery And Equipment
+NDR050309,,,2491,Wood Preserving
+NDR050314,928110,National Security,4581,"Airports, Flying Fields, & Services"
+NDR050315,928110,National Security,4581,"Airports, Flying Fields, & Services"
+NDR050316,,,4213,"Trucking, Except Local"
+NDR050327,,,5093,Scrap And Waste Materials
+NDR050331,423930,Recyclable Material Merchant Wholesalers,5093,Scrap And Waste Materials
+NDR050337,,,4581,"Airports, Flying Fields, & Services"
+NDR050338,488119,Other Airport Operations,4581,"Airports, Flying Fields, & Services"
+NDR050339,488119,Other Airport Operations,4581,"Airports, Flying Fields, & Services"
+NDR050340,488119,Other Airport Operations,4581,"Airports, Flying Fields, & Services"
+NDR050341,482111,Line-Haul Railroads,4011,"Railroads, Line-Haul Operating"
+NDR050342,482111,Line-Haul Railroads,4011,"Railroads, Line-Haul Operating"
+NDR050343,482111,Line-Haul Railroads,4011,"Railroads, Line-Haul Operating"
+NDR050344,482111,Line-Haul Railroads,4011,"Railroads, Line-Haul Operating"
+NDR050363,333111,Farm Machinery and Equipment Manufacturing,3523,Farm Machinery And Equipment
+NDR050401,423930,Recyclable Material Merchant Wholesalers,5093,Scrap And Waste Materials
+NDR050415,482111,Line-Haul Railroads,4011,"Railroads, Line-Haul Operating"
+NDR050417,423930,Recyclable Material Merchant Wholesalers,5093,Scrap And Waste Materials
+NDR050420,562212,Solid Waste Landfill,4953,Refuse Systems
+NDR050421,311313,Beet Sugar Manufacturing,2063,Beet Sugar
+NDR050422,311313,Beet Sugar Manufacturing,2063,Beet Sugar
+NDR050424,482111,Line-Haul Railroads,4011,"Railroads, Line-Haul Operating"
+NDR050428,482111,Line-Haul Railroads,4011,"Railroads, Line-Haul Operating"
+NDR050431,,,4213,"Trucking, Except Local"
+NDR050442,,,5093,Scrap And Waste Materials
+NDR050451,562212,Solid Waste Landfill,4953,Refuse Systems
+NDR050465,488119,Other Airport Operations,4581,"Airports, Flying Fields, & Services"
+NDR050533,,,3523,Farm Machinery And Equipment
+NDR050535,,,2076,Vegetable Oil Mills
+NDR050542,441330,Automotive Parts and Accessories Retailers ,5015,"Motor Vehicle Parts, Used"
+NDR050560,,,3291,Abrasive Products
+NDR050570,562212,Solid Waste Landfill,4953,Refuse Systems
+NDR050571,,,5093,Scrap And Waste Materials
+NDR050573,562212,Solid Waste Landfill,4953,Refuse Systems
+NDR050577,482111,Line-Haul Railroads,4011,"Railroads, Line-Haul Operating"
+NDR050585,,,4953,Refuse Systems
+NDR050586,,,5093,Scrap And Waste Materials
+NDR050590,,,4011,"Railroads, Line-Haul Operating"
+NDR050592,562111,Solid Waste Collection,4212,"Local Trucking, Without Storage"
+NDR050593,562111,Solid Waste Collection,4212,"Local Trucking, Without Storage"
+NDR050594,562111,Solid Waste Collection,4212,"Local Trucking, Without Storage"
+NDR050606,311411,"Frozen Fruit, Juice, and Vegetable Manufacturing",2037,Frozen Fruits And Vegetables
+NDR050610,,,2631,Paperboard Mills
+NDR050621,,,5093,Scrap And Waste Materials
+NDR050624,325193,Ethyl Alcohol Manufacturing,2869,Industrial Organic Chemicals
+NDR050626,325193,Ethyl Alcohol Manufacturing,2869,Industrial Organic Chemicals
+NDR050628,482111,Line-Haul Railroads,4011,"Railroads, Line-Haul Operating"
+NDR050630,562212,Solid Waste Landfill,4953,Refuse Systems
+NDR050632,,,4953,Refuse Systems
+NDR050633,311119,Other Animal Food Manufacturing,2048,Prepared Feeds
+NDR050638,562212,Solid Waste Landfill,4953,Refuse Systems
+NDR050639,325193,Ethyl Alcohol Manufacturing,2869,Industrial Organic Chemicals
+NDR050640,488210,Support Activities for Rail Transportation,4789,Transportation Services
+NDR050642,311119,Other Animal Food Manufacturing,2048,Prepared Feeds
+NDR050646,325193,Ethyl Alcohol Manufacturing,2869,Industrial Organic Chemicals
+NDR050649,562212,Solid Waste Landfill,4953,Refuse Systems
+NDR050650,311611,Animal [Except Poultry] Slaughtering,2011,Meat Packing Plants
+NDR050652,311313,Beet Sugar Manufacturing,2063,Beet Sugar
+NDR050654,,,3599,Industrial Machinery
+NDR050656,,,4225,General Warehousing And Storage
+NDR050658,333120,Construction Machinery Manufacturing,3531,Construction Machinery
+NDR050660,221122,Electric Power Distribution,4225,General Warehousing And Storage
+NDR050663,482111,Line-Haul Railroads,4011,"Railroads, Line-Haul Operating"
+NDR050664,482111,Line-Haul Railroads,4011,"Railroads, Line-Haul Operating"
+NDR050665,482111,Line-Haul Railroads,4011,"Railroads, Line-Haul Operating"
+NDR050666,482111,Line-Haul Railroads,4011,"Railroads, Line-Haul Operating"
+NDR050667,562212,Solid Waste Landfill,4953,Refuse Systems
+NDR050669,562212,Solid Waste Landfill,4953,Refuse Systems
+NDR050675,,,4911,Electric Services
+NDR050689,,,4225,General Warehousing And Storage
+NDR050695,493130,Farm Product Warehousing and Storage,4221,Farm Product Warehousing And Storage
+NDR050700,,,3272,Concrete Products
+NDR050706,424710,Petroleum Bulk Stations and Terminals,4226,Special Warehousing And Storage
+NDR050709,311313,Beet Sugar Manufacturing,2063,Beet Sugar
+NDR050712,562213,Solid Waste Combustors and Incinerators,4953,Refuse Systems
+NDR050717,484110,"General Freight Trucking, Local",4212,"Local Trucking, Without Storage"
+NDR050718,488210,Support Activities for Rail Transportation,4789,Transportation Services
+NDR050719,,,2874,Phosphatic Fertilizers
+NDR050722,562212,Solid Waste Landfill,4953,Refuse Systems
+NDR050725,,,3728,Aircraft Parts And Equipment
+NDR050726,,,3728,Aircraft Parts And Equipment
+NDR050731,,,4953,Refuse Systems
+NDR050732,423930,Recyclable Material Merchant Wholesalers,5093,Scrap And Waste Materials
+NDR050733,,,2098,"Macaroni, Spagh, Vermi, Noodl"
+NDR050734,562212,Solid Waste Landfill,4953,Refuse Systems
+NDR050736,325311,Nitrogenous Fertilizer Manufacturing,4925,Gas Production And/Or Distribution
+NDR050741,562212,Solid Waste Landfill,4953,Refuse Systems
+NDR050748,,,5093,Scrap And Waste Materials
+NDR050749,423930,Recyclable Material Merchant Wholesalers,5093,Scrap And Waste Materials
+NDR050755,,,5171,Petroleum Bulk Stations & Terminals
+NDR050756,311313,Beet Sugar Manufacturing,2063,Beet Sugar
+NDR050758,325193,Ethyl Alcohol Manufacturing,2869,Industrial Organic Chemicals
+NDR050759,562212,Solid Waste Landfill,4953,Refuse Systems
+NDR050763,562111,Solid Waste Collection,4212,"Local Trucking, Without Storage"
+NDR050764,562111,Solid Waste Collection,4212,"Local Trucking, Without Storage"
+NDR050765,562111,Solid Waste Collection,4212,"Local Trucking, Without Storage"
+NDR050767,424710,Petroleum Bulk Stations and Terminals,5171,Petroleum Bulk Stations & Terminals
+NDR050769,326122,Plastics Pipe and Pipe Fitting Manufacturing,3084,Plastics Pipe
+NDR050771,,,2653,Corrugated And Solid Fiber Boxes
+NDR050776,325199,All Other Basic Organic Chemical Manufacturing,2869,Industrial Organic Chemicals
+NDR050777,562212,Solid Waste Landfill,4953,Refuse Systems
+NDR050778,926120,Regulation and Administration of Transportation Programs,1611,Highway And Street Construction
+NDR050780,336212,Truck Trailer Manufacturing,3715,Truck Trailers
+NDR050781,,,4013,Switching And Terminal Services
+NDR050783,482111,Line-Haul Railroads,4011,"Railroads, Line-Haul Operating"
+NDR050784,482111,Line-Haul Railroads,4011,"Railroads, Line-Haul Operating"
+NDR050786,482111,Line-Haul Railroads,4011,"Railroads, Line-Haul Operating"
+NDR050788,423930,Recyclable Material Merchant Wholesalers,5093,Scrap And Waste Materials
+NDR050794,311511,Fluid Milk Manufacturing,2026,Fluid Milk
+NDR050796,333914,"Measuring, Dispensing, and Other Pumping Equipment Manufacturing",3561,Pumps And Pumping Equipment
+NDR050797,423930,Recyclable Material Merchant Wholesalers,5093,Scrap And Waste Materials
+NDR050801,325998,All Other Miscellaneous Chemical Product and Preparation Manufacturing,2899,Chemical Preparations
+NDR050804,,,2531,Public Building & Related Furniture
+NDR050805,562212,Solid Waste Landfill,4953,Refuse Systems
+NDR050806,332812,"Metal Coating, Engraving [Except Jewelry and Silverware], and Allied Services To Manufacturers",3479,Metal Coating And Allied Services
+NDR050807,,,4225,General Warehousing And Storage
+NDR050808,325998,All Other Miscellaneous Chemical Product and Preparation Manufacturing,2899,Chemical Preparations
+NDR050810,,,2875,"Fertilizers, Mixing Only"
+NDR050811,,,5172,Petroleum Products
+NDR050814,488119,Other Airport Operations,4581,"Airports, Flying Fields, & Services"
+NDR050815,,,4953,Refuse Systems
+NDR050817,333120,Construction Machinery Manufacturing,3531,Construction Machinery
+NDR050818,,,5093,Scrap And Waste Materials
+NDR050819,333120,Construction Machinery Manufacturing,3531,Construction Machinery
+NDR050820,,,3412,"Metal Barrels, Drums, And Pails"
+NDR050822,562212,Solid Waste Landfill,4953,Refuse Systems
+NDR050824,326122,Plastics Pipe and Pipe Fitting Manufacturing,3084,Plastics Pipe
+NDR050827,424710,Petroleum Bulk Stations and Terminals,5171,Petroleum Bulk Stations & Terminals
+NDR050828,424710,Petroleum Bulk Stations and Terminals,5171,Petroleum Bulk Stations & Terminals
+NDR050829,488490,Other Support Activities for Road Transportation,4231,Trucking Terminal Facilities
+NDR050830,488490,Other Support Activities for Road Transportation,4231,Trucking Terminal Facilities
+NDR050832,213112,Support Activities For Oil and Gas Operations,1389,Oil And Gas Field Services
+NDR050834,424410,General Line Grocery Merchant Wholesalers,5141,"Groceries, General Line"
+NDR050835,562111,Solid Waste Collection,4212,"Local Trucking, Without Storage"
+NDR050836,325193,Ethyl Alcohol Manufacturing,2869,Industrial Organic Chemicals
+NDR050837,562219,Other Nonhazardous Waste Treatment and Disposal,4953,Refuse Systems
+NDR050838,,,5015,"Motor Vehicle Parts, Used"
+NDR050839,488119,Other Airport Operations,4581,"Airports, Flying Fields, & Services"
+NDR050841,482112,Short Line Railroads,4789,Transportation Services
+NDR050842,488999,All Other Support Activities For Transportation,4789,Transportation Services
+NDR050845,423930,Recyclable Material Merchant Wholesalers,5093,Scrap And Waste Materials
+NDR050848,482111,Line-Haul Railroads,4011,"Railroads, Line-Haul Operating"
+NDR050849,482111,Line-Haul Railroads,4011,"Railroads, Line-Haul Operating"
+NDR050851,493110,General Warehousing and Storage,4225,General Warehousing And Storage
+NDR050852,488119,Other Airport Operations,4581,"Airports, Flying Fields, & Services"
+NDR050853,482111,Line-Haul Railroads,4011,"Railroads, Line-Haul Operating"
+NDR050854,482111,Line-Haul Railroads,4011,"Railroads, Line-Haul Operating"
+NDR050855,,,4581,"Airports, Flying Fields, & Services"
+NDR050858,321920,Wood Container and Pallet Manufacturing,2448,Wood Pallets And Skids
+NDR050859,311211,Flour Milling,2041,Flour And Other Grain Mill Products
+NDR050860,326199,All Other Plastics Product Manufacturing,3089,Plastics Products
+NDR050861,326299,All Other Rubber Product Manufacturing,3069,Fabricated Rubber Products
+NDR050862,484220,"Specialized Freight [except Used Goods] Trucking, Local",4214,Local Trucking With Storage
+NDR050863,336212,Truck Trailer Manufacturing,3715,Truck Trailers
+NDR050864,311224,Soybean and Other Oilseed Processing,2075,Soybean Oil Mills
+NDR050865,333111,Farm Machinery and Equipment Manufacturing,3523,Farm Machinery And Equipment
+NDR050866,484122,"General Freight Trucking, Long-Distance, Less Than Truckload",4213,"Trucking, Except Local"
+NDR050867,333111,Farm Machinery and Equipment Manufacturing,3523,Farm Machinery And Equipment
+NDR050869,325199,All Other Basic Organic Chemical Manufacturing,2869,Industrial Organic Chemicals
+NDR050870,311423,Dried and Dehydrated Food Manufacturing,2034,"Dehydrated Fruits, Vegetables, Soups"
+NDR050871,311224,Soybean and Other Oilseed Processing,2075,Soybean Oil Mills
+NDR050872,493110,General Warehousing and Storage,4225,General Warehousing And Storage
+NDR050873,493110,General Warehousing and Storage,4225,General Warehousing And Storage
+NDR050874,493110,General Warehousing and Storage,4225,General Warehousing And Storage
+NDR050875,332999,All Other Miscellaneous Fabricated Metal Product Manufacturing,3589,Service Industry Machinery
+NDR050877,488210,Support Activities for Rail Transportation,4789,Transportation Services
+NDR050878,562212,Solid Waste Landfill,4953,Refuse Systems
+NDR050879,335932,Noncurrent-Carrying Wiring Device Manufacturing,3644,Noncurrent-Carrying Wiring Devices
+NDR050880,488490,Other Support Activities for Road Transportation,4231,Trucking Terminal Facilities
+NDR050881,488490,Other Support Activities for Road Transportation,4111,Local And Suburban Transit
+NDR050882,488490,Other Support Activities for Road Transportation,4231,Trucking Terminal Facilities
+NDR050883,488490,Other Support Activities for Road Transportation,4231,Trucking Terminal Facilities
+NDR050884,488119,Other Airport Operations,4581,"Airports, Flying Fields, & Services"
+NDR050885,493110,General Warehousing and Storage,4225,General Warehousing And Storage
+NDR050886,484121,"General Freight Trucking, Long-Distance, Truckload",4213,"Trucking, Except Local"
+NDR050887,311211,Flour Milling,2041,Flour And Other Grain Mill Products
+NDR050888,333914,"Measuring, Dispensing, and Other Pumping Equipment Manufacturing",3561,Pumps And Pumping Equipment
+NDR05I300,424710,Petroleum Bulk Stations and Terminals,5171,Petroleum Bulk Stations & Terminals
+NDR05I301,424710,Petroleum Bulk Stations and Terminals,5171,Petroleum Bulk Stations & Terminals
+NDR05IA00,,,5171,Petroleum Bulk Stations & Terminals
+NDR05IA01,,,1442,Construction Sand And Gravel
+NDR104581,,,1623,"Water, Sewer, And Utility Lines"
+NDR104642,,,1629,Heavy Construction
+NDR105108,,,1629,Heavy Construction
+NDR107036,,,1611,Highway And Street Construction
+NDR107721,,,1611,Highway And Street Construction
+NDR107925,,,1611,Highway And Street Construction
+NDR108422,237310,"Highway, Street, and Bridge Construction",,
+NDR108437,237310,"Highway, Street, and Bridge Construction",1611,Highway And Street Construction
+NDR10A00I,,,9999,Nonclassifiable Establishments
+NDR112506,311213,Malt Manufacturing,2083,Malt
+NDR113413,,,9621,"Regulation, Administration Of Transportation"
+NDR12AB0I,,,1611,Highway And Street Construction
+NDR320025,,,3273,Ready-Mixed Concrete
+NDR320026,237310,"Highway, Street, and Bridge Construction",1611,Highway And Street Construction
+NDR320029,237310,"Highway, Street, and Bridge Construction",1611,Highway And Street Construction
+NDR320031,237310,"Highway, Street, and Bridge Construction",1611,Highway And Street Construction
+NDR320073,327331,Concrete Block and Brick Manufacturing,3271,Concrete Block And Brick
+NDR320160,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320232,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320246,327331,Concrete Block and Brick Manufacturing,3271,Concrete Block And Brick
+NDR320274,,,2951,Asphalt Paving Mixtures And Blocks
+NDR320416,,,2951,Asphalt Paving Mixtures And Blocks
+NDR320453,,,1611,Highway And Street Construction
+NDR320470,237310,"Highway, Street, and Bridge Construction",1611,Highway And Street Construction
+NDR320471,237310,"Highway, Street, and Bridge Construction",1611,Highway And Street Construction
+NDR320474,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320537,,,2951,Asphalt Paving Mixtures And Blocks
+NDR320539,237310,"Highway, Street, and Bridge Construction",1611,Highway And Street Construction
+NDR320553,237310,"Highway, Street, and Bridge Construction",1611,Highway And Street Construction
+NDR320567,324121,Asphalt Paving Mixture and Block Manufacturing,2951,Asphalt Paving Mixtures And Blocks
+NDR320569,,,2951,Asphalt Paving Mixtures And Blocks
+NDR320575,,,1442,Construction Sand And Gravel
+NDR320597,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320598,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320599,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320600,324121,Asphalt Paving Mixture and Block Manufacturing,2951,Asphalt Paving Mixtures And Blocks
+NDR320601,324121,Asphalt Paving Mixture and Block Manufacturing,2951,Asphalt Paving Mixtures And Blocks
+NDR320604,237310,"Highway, Street, and Bridge Construction",1611,Highway And Street Construction
+NDR320605,237310,"Highway, Street, and Bridge Construction",1611,Highway And Street Construction
+NDR320618,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320632,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320633,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320637,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320641,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320644,,,3533,Oil And Gas Field Machinery
+NDR320656,327331,Concrete Block and Brick Manufacturing,3271,Concrete Block And Brick
+NDR320664,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320691,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320696,213112,Support Activities For Oil and Gas Operations,1389,Oil And Gas Field Services
+NDR320699,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320700,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320704,,,1389,Oil And Gas Field Services
+NDR320708,213112,Support Activities For Oil and Gas Operations,1389,Oil And Gas Field Services
+NDR320709,213112,Support Activities For Oil and Gas Operations,1389,Oil And Gas Field Services
+NDR320710,213112,Support Activities For Oil and Gas Operations,1389,Oil And Gas Field Services
+NDR320712,213112,Support Activities For Oil and Gas Operations,1389,Oil And Gas Field Services
+NDR320716,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320723,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320724,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320726,,,1442,Construction Sand And Gravel
+NDR320741,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320742,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320747,,,2951,Asphalt Paving Mixtures And Blocks
+NDR320753,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320756,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320767,211120,Crude Petroleum Extraction,1311,Crude Petroleum And Natural Gas
+NDR320781,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320798,213112,Support Activities For Oil and Gas Operations,1389,Oil And Gas Field Services
+NDR320808,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320809,237310,"Highway, Street, and Bridge Construction",1611,Highway And Street Construction
+NDR320811,237310,"Highway, Street, and Bridge Construction",1611,Highway And Street Construction
+NDR320812,237310,"Highway, Street, and Bridge Construction",1611,Highway And Street Construction
+NDR320814,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320815,237310,"Highway, Street, and Bridge Construction",1611,Highway And Street Construction
+NDR320833,237310,"Highway, Street, and Bridge Construction",1611,Highway And Street Construction
+NDR320834,237310,"Highway, Street, and Bridge Construction",1611,Highway And Street Construction
+NDR320837,,,4953,Refuse Systems
+NDR320840,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320842,324121,Asphalt Paving Mixture and Block Manufacturing,2951,Asphalt Paving Mixtures And Blocks
+NDR320848,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320853,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320858,,,4231,Trucking Terminal Facilities
+NDR320867,237310,"Highway, Street, and Bridge Construction",1611,Highway And Street Construction
+NDR320868,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320869,213112,Support Activities For Oil and Gas Operations,1389,Oil And Gas Field Services
+NDR320872,213112,Support Activities For Oil and Gas Operations,1382,Oil And Gas Exploration Services
+NDR320873,237310,"Highway, Street, and Bridge Construction",1611,Highway And Street Construction
+NDR320875,213112,Support Activities For Oil and Gas Operations,1389,Oil And Gas Field Services
+NDR320876,327390,Other Concrete Product Manufacturing,3272,Concrete Products
+NDR320878,,,2951,Asphalt Paving Mixtures And Blocks
+NDR320890,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320891,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320894,213112,Support Activities For Oil and Gas Operations,1389,Oil And Gas Field Services
+NDR320899,327390,Other Concrete Product Manufacturing,3272,Concrete Products
+NDR320900,327390,Other Concrete Product Manufacturing,3272,Concrete Products
+NDR320907,327320,Ready-Mix Concrete Manufacturing,3272,Concrete Products
+NDR320908,327320,Ready-Mix Concrete Manufacturing,3272,Concrete Products
+NDR320909,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320910,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320913,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320914,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320915,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320916,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320921,212322,Industrial Sand Mining,1446,Industrial Sand
+NDR320923,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320924,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320925,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320926,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320927,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320928,327320,Ready-Mix Concrete Manufacturing,3273,Ready-Mixed Concrete
+NDR320929,212321,Construction Sand and Gravel Mining,1442,Construction Sand And Gravel
+NDR320932,212322,Industrial Sand Mining,1446,Industrial Sand
+NDR320933,212319,Other Crushed and Broken Stone Mining and Quarrying,1499,Miscellaneous Nonmetallic Minerals
+NDR320934,213112,Support Activities For Oil and Gas Operations,1389,Oil And Gas Field Services
+NDU000002,,,4941,Water Supply
+NDU000004,,,4959,Sanitary Services
+NDU000005,,,4952,Sewerage Systems
+NDU000019,,,0279,Animal Specialties
+NDU000020,,,0212,"Beef Cattle, Except Feedlots"
+NDU000021,,,0212,"Beef Cattle, Except Feedlots"
+NDU000022,,,0272,Horses And Other Equines
+NDU000023,,,0272,Horses And Other Equines
+NDU000024,,,0212,"Beef Cattle, Except Feedlots"
+NDU000025,,,0212,"Beef Cattle, Except Feedlots"
+NDU000026,,,0279,Animal Specialties
+NDU000027,,,0212,"Beef Cattle, Except Feedlots"
+NDU000029,,,0212,"Beef Cattle, Except Feedlots"
+NDU000030,,,0211,Beef Cattle Feedlots
+NDU000031,,,0211,Beef Cattle Feedlots
+NDU000032,,,0211,Beef Cattle Feedlots
+NDU000033,,,0211,Beef Cattle Feedlots
+NDU000034,,,0211,Beef Cattle Feedlots
+NDU000035,,,0211,Beef Cattle Feedlots
+NDU000049,,,1542,Nonresidential Construction
+NDU000053,,,0211,Beef Cattle Feedlots
+NDU000054,,,0211,Beef Cattle Feedlots
+NDU000059,,,0213,Hogs
+NDU000060,,,0211,Beef Cattle Feedlots
+NDU000061,,,0241,Dairy Farms
+NDU000071,,,0211,Beef Cattle Feedlots
+NDU000072,,,0211,Beef Cattle Feedlots
+NDU000073,,,0211,Beef Cattle Feedlots
+NDU000074,,,0211,Beef Cattle Feedlots
+NDU000075,,,0211,Beef Cattle Feedlots
+NDU000076,,,0211,Beef Cattle Feedlots
+NDU000077,,,1522,Residential Construction
+NDU000080,,,0211,Beef Cattle Feedlots
+NDU000081,,,0211,Beef Cattle Feedlots
+NDU000082,,,0211,Beef Cattle Feedlots
+NDU000083,,,0211,Beef Cattle Feedlots
+NDU000084,,,0211,Beef Cattle Feedlots
+NDU000085,,,0211,Beef Cattle Feedlots
+NDU000087,,,0211,Beef Cattle Feedlots
+NDU000088,,,0211,Beef Cattle Feedlots
+NDU000089,,,4953,Refuse Systems
+NDU000090,,,0211,Beef Cattle Feedlots
+NDU000091,,,0211,Beef Cattle Feedlots
+NDU000092,,,0211,Beef Cattle Feedlots
+NDU000093,,,0211,Beef Cattle Feedlots
+NDU000205,,,1522,Residential Construction
+NDU000206,,,1522,Residential Construction
+NDU000207,,,1522,Residential Construction
+NDU000208,,,1522,Residential Construction
+NDU000210,,,1522,Residential Construction
+NDU000211,,,1522,Residential Construction
+NDX000001,485999,All Other Transit and Ground Passenger Transportation,4111,Local And Suburban Transit
+NDX000010,485111,Mixed Mode Transit Systems,4111,Local And Suburban Transit
+NDX000019,492110,Couriers and Express Delivery Services,4513,Air Courier Services
+NDX000020,492110,Couriers and Express Delivery Services,4513,Air Courier Services
+NDX000022,492110,Couriers and Express Delivery Services,4513,Air Courier Services
+NDX000035,488490,Other Support Activities for Road Transportation,4231,Trucking Terminal Facilities
+NDX000036,488490,Other Support Activities for Road Transportation,4231,Trucking Terminal Facilities
+NDX000037,488490,Other Support Activities for Road Transportation,4231,Trucking Terminal Facilities
+NDX000040,,,4111,Local And Suburban Transit
+NDX000041,,,4111,Local And Suburban Transit
+NDX000042,,,4111,Local And Suburban Transit
+NDX000043,,,4111,Local And Suburban Transit
+NDX000045,,,4111,Local And Suburban Transit
+NDX000050,485999,All Other Transit and Ground Passenger Transportation,4111,Local And Suburban Transit
+NDX000052,488490,Other Support Activities for Road Transportation,4111,Local And Suburban Transit
+NDX000053,485999,All Other Transit and Ground Passenger Transportation,4111,Local And Suburban Transit
+NDX000054,,,4111,Local And Suburban Transit
+NDX000055,485999,All Other Transit and Ground Passenger Transportation,4111,Local And Suburban Transit
+NDX000056,484220,"Specialized Freight [except Used Goods] Trucking, Local",4212,"Local Trucking, Without Storage"
+NDX000058,488490,Other Support Activities for Road Transportation,4231,Trucking Terminal Facilities
+NDX000059,488490,Other Support Activities for Road Transportation,4231,Trucking Terminal Facilities
+NDX000060,488490,Other Support Activities for Road Transportation,4231,Trucking Terminal Facilities
+NDX000061,488490,Other Support Activities for Road Transportation,4231,Trucking Terminal Facilities
+NDX000073,,,4111,Local And Suburban Transit
+NDX000074,,,4111,Local And Suburban Transit
+NDX000075,,,4111,Local And Suburban Transit
+NDX000076,,,4111,Local And Suburban Transit
+NDX000077,,,4111,Local And Suburban Transit
+NDX000084,,,2879,Agricultural Chemicals
+NDX000093,928110,National Security,9711,National Security
+NDX000096,321911,Wood Window and Door Manufacturing,2431,Millwork
+NDX000107,484122,"General Freight Trucking, Long-Distance, Less Than Truckload",4213,"Trucking, Except Local"
+NDX000109,484122,"General Freight Trucking, Long-Distance, Less Than Truckload",4213,"Trucking, Except Local"
+NDX000114,,,7538,General Automotive Repair Shops
+NDX000115,,,7538,General Automotive Repair Shops
+NDX000128,339112,Surgical and Medical Instrument Manufacturing,3841,Surgical And Medical Instruments
+NDX000129,562112,Hazardous Waste Collection,4212,"Local Trucking, Without Storage"
+NDX000130,562112,Hazardous Waste Collection,4212,"Local Trucking, Without Storage"
+NDX000131,,,5051,Metals Service Centers And Offices
+NDX000133,321911,Wood Window and Door Manufacturing,2431,Millwork
+NDX000136,311812,Commercial Bakeries,2051,"Bread, Cake, And Related Products"
+NDX000138,321911,Wood Window and Door Manufacturing,2431,Millwork
+NDX000141,,,5083,Farm And Garden Machinery
+NDX000142,333111,Farm Machinery and Equipment Manufacturing,3523,Farm Machinery And Equipment
+NDX000145,488119,Other Airport Operations,4581,"Airports, Flying Fields, & Services"
+NDX000153,424910,Farm Supplies Merchant Wholesalers,5191,Farm Supplies
+NDX000154,,,5093,Scrap And Waste Materials
+NDX000169,,,5087,Service Establishment Equipment
+NDX000171,492110,Couriers and Express Delivery Services,4215,"Courier Services, Except By Air"
+NDX000172,332321,Metal Window and Door Manufacturing,3442,"Metal Doors, Sash, And Trim"
+NDX000173,321911,Wood Window and Door Manufacturing,2431,Millwork
+NDX000176,484122,"General Freight Trucking, Long-Distance, Less Than Truckload",4213,"Trucking, Except Local"
+NDX000177,423930,Recyclable Material Merchant Wholesalers,5093,Scrap And Waste Materials
+NDX000182,237120,Oil and Gas Pipeline and Related Structures Construction,1389,Oil And Gas Field Services
+NDX000187,484122,"General Freight Trucking, Long-Distance, Less Than Truckload",4213,"Trucking, Except Local"
+NDX000188,492110,Couriers and Express Delivery Services,4215,"Courier Services, Except By Air"
+NDX000194,332311,Prefabricated Metal Building and Component Manufacturing,3448,Prefabricated Metal Buildings
+NDX000197,492110,Couriers and Express Delivery Services,4215,"Courier Services, Except By Air"
+NDX000198,,,3479,Metal Coating And Allied Services
+NDX000204,,,4939,Combination Utilities
+NDX000205,485210,Interurban and Rural Bus Transportation,4131,Intercity & Rural Bus Transportation
+NDX000206,,,2099,Food Preparations
+NDX000210,336413,Other Aircraft Parts and Auxiliary Equipment Manufacturing,3728,Aircraft Parts And Equipment
+NDX000214,,,3499,Fabricated Metal Products
+NDX000215,492110,Couriers and Express Delivery Services,4215,"Courier Services, Except By Air"
+NDX000220,493110,General Warehousing and Storage,4225,General Warehousing And Storage
+NDX000235,492110,Couriers and Express Delivery Services,4513,Air Courier Services
+NDX000238,424710,Petroleum Bulk Stations and Terminals,5171,Petroleum Bulk Stations & Terminals
+NDX000240,493110,General Warehousing and Storage,4225,General Warehousing And Storage
+NDX000244,,,2521,Wood Office Furniture
+NDX000247,488210,Support Activities for Rail Transportation,4013,Switching And Terminal Services
+NDX000250,,,3728,Aircraft Parts And Equipment
+NDX000253,,,4213,"Trucking, Except Local"
+NDX000255,321911,Wood Window and Door Manufacturing,2431,Millwork
+NDX000257,423930,Recyclable Material Merchant Wholesalers,5093,Scrap And Waste Materials
+NDX000258,333132,Oil and Gas Field Machinery and Equipment Manufacturing,3533,Oil And Gas Field Machinery
+NDX000262,493110,General Warehousing and Storage,4225,General Warehousing And Storage
+NDX000263,484121,"General Freight Trucking, Long-Distance, Truckload",4213,"Trucking, Except Local"
+NDX000264,484121,"General Freight Trucking, Long-Distance, Truckload",4213,"Trucking, Except Local"
+NDX000266,325120,Industrial Gas Manufacturing,2813,Industrial Gases
+NDX000267,492210,Local Messengers and Local Delivery,4215,"Courier Services, Except By Air"
+NDX000268,311812,Commercial Bakeries,2051,"Bread, Cake, And Related Products"
+NDX000269,484121,"General Freight Trucking, Long-Distance, Truckload",4213,"Trucking, Except Local"
+NDX000270,484121,"General Freight Trucking, Long-Distance, Truckload",4213,"Trucking, Except Local"
+NDX000271,484121,"General Freight Trucking, Long-Distance, Truckload",4213,"Trucking, Except Local"
+NDX000281,311824,"Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour",2099,Food Preparations
+NDX000282,492110,Couriers and Express Delivery Services,4215,"Courier Services, Except By Air"
+NDX000283,492110,Couriers and Express Delivery Services,4215,"Courier Services, Except By Air"
+NDX000284,325414,Biological Product [Except Diagnostic] Manufacturing,2836,Biological Products Except Diagnostic
+NDX000285,321219,Reconstituted Wood Product Manufacturing,2493,Reconstituted Wood Products
+NDX000286,211130,Natural Gas Extraction,1321,Natural Gas Liquids
